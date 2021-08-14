@@ -8,9 +8,9 @@
 ## Screenshots
 
 <div style="display:flex;flex-direction:row;" >
-  <img src="https://raw.githubusercontent.com/Bryancm/random_anime/master/assets/1.png?token=AEI2HV4BKFE52SN3WSZAADDBC46DG" width="260" height="589" />
-  <img src="https://raw.githubusercontent.com/Bryancm/random_anime/master/assets/2.png?token=AEI2HV4BKFE52SN3WSZAADDBC46DG" width="260" height="589" />
-  <img src="https://raw.githubusercontent.com/Bryancm/random_anime/master/assets/3.png?token=AEI2HV4BKFE52SN3WSZAADDBC46DG" width="260" height="589" />
+  <img src="https://raw.githubusercontent.com/Bryancm/anime_random/master/assets/1.png" width="260" height="589" />
+  <img src="https://raw.githubusercontent.com/Bryancm/anime_random/master/assets/2.png" width="260" height="589" />
+  <img src="https://raw.githubusercontent.com/Bryancm/anime_random/master/assets/3.png" width="260" height="589" />
 </div>
 
   
